@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 李皓勛的部落格</title>
+    <link>https://haohsun.github.io/categories/</link>
+    <description>Recent content in Categories on 李皓勛的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://haohsun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>練習主題</title>
+      <link>https://haohsun.github.io/categories/%E7%B7%B4%E7%BF%92%E4%B8%BB%E9%A1%8C/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://haohsun.github.io/categories/%E7%B7%B4%E7%BF%92%E4%B8%BB%E9%A1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android And Gaming</title>
+      <link>https://haohsun.github.io/categories/android-and-gaming/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://haohsun.github.io/categories/android-and-gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go Language</title>
+      <link>https://haohsun.github.io/categories/go-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://haohsun.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://haohsun.github.io/categories/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://haohsun.github.io/categories/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML &amp; CSS</title>
+      <link>https://haohsun.github.io/categories/html-css/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://haohsun.github.io/categories/html-css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Language</title>
+      <link>https://haohsun.github.io/categories/programming-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://haohsun.github.io/categories/programming-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://haohsun.github.io/categories/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://haohsun.github.io/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>https://haohsun.github.io/categories/web-design/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://haohsun.github.io/categories/web-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

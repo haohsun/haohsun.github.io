@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>練習標籤02 on 李皓勛的部落格</title>
+    <link>https://haohsun.github.io/tags/%E7%B7%B4%E7%BF%92%E6%A8%99%E7%B1%A402/</link>
+    <description>Recent content in 練習標籤02 on 李皓勛的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://haohsun.github.io/tags/%E7%B7%B4%E7%BF%92%E6%A8%99%E7%B1%A402/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>練習標題</title>
+      <link>https://haohsun.github.io/blog/test/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://haohsun.github.io/blog/test/</guid>
+      <description>Hello world
+Hello Steven
+這是一級標題，一級標題打1個# 這是二級標題，二級標題打2個# 這是三級標題，三級標題打三個# 連續打6個#就是6級標題了。 我要先打一份內文 如果要有粗體 就是這樣 增加2個星號 就是</description>
+    </item>
+    
+  </channel>
+</rss>
